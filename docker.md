@@ -97,7 +97,7 @@ Ohjelmistokirjastojen versioiden hallintaan löytyy toki Dockerin lisäksi muita
 
 ## Jatko-opiskelu
 
-Nyt lukija tuntee taustan ja tarpeeksi teoriaa, jotta voi jatkaa opiskelua netistä löytyvien materiaalien avulla. Seuraavassa on listattu englannin kielisiä linkkejä olennaisimpiin tutoriaaleihin:
+Nyt lukija tuntee taustan ja tarpeeksi teoriaa, jotta voi jatkaa opiskelua netistä löytyvien materiaalien avulla. Seuraavassa on listattu englanninkielisiä linkkejä olennaisimpiin tutoriaaleihin:
 
 - [Dockerin virallinen dokumentaatio](https://docs.docker.com/get-started/)
 - [Docker Hub](https://hub.docker.com/)
